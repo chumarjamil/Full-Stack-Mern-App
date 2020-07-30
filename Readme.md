@@ -1,4 +1,4 @@
-# Creating a Full Stack MERN Application using JWT Authentication
+# Creating a Full Stack MERN Application 
 
 ![Cover Pic](./Cover.png)
 
